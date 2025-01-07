@@ -1,4 +1,5 @@
-# 💰Full Shopping Ecommerce App with Flutter
+# 💰Full Shopping Ecommerce App with (Flutter and PHP)
+## Customer app , Delivery app , Admin Control Panel  ##three Apps
 
 ## Project Description
 
