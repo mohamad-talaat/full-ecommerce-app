@@ -20,7 +20,7 @@ https://github.com/user-attachments/assets/20e953bd-4fe9-4dac-8b60-265bd2e57e43
 
 <center>
     <video width="600" controls>
-      <source src="ss/demo.mp4" type="video/mp4">
+      <source src="admin_app/ss/demo.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
  </center>
@@ -86,18 +86,18 @@ Responsive Screens
 _# 📸 Screenshots
 _________________________
              
-| <img src="admin_app/ss/1.png" width="300">  | <img src="ss/2.png" width="300">  |
-| <img src="ss/3.png" width="300">  | <img src="ss/4.png" width="300">  |
-| <img src="ss/5.png" width="400">  | <img src="ss/6.png" width="400">  |
-| <img src="ss/7.png" width="400">  | <img src="ss/8.png" width="400">  |
-| <img src="ss/9.png" width="400">  | <img src="ss/10.png" width="400"> |
-| <img src="ss/11.png" width="400"> | <img src="ss/12.png" width="400"> |
-| <img src="ss/13.png" width="400"> | <img src="ss/14.png" width="400"> |
-| <img src="ss/15.png" width="400">  | <img src="ss/16.png" width="400">  |
-| <img src="ss/17.png" width="400">  | <img src="ss/18.png" width="400">  |
-| <img src="ss/19.png" width="400">  | <img src="ss/20.png" width="400">  |
-| <img src="ss/21.png" width="400">  | <img src="ss/22.png" width="400">  |
-| <img src="ss/23.png" width="400">  | <img src="ss/24.png" width="400"> |
-| <img src="ss/25.png" width="400"> | <img src="ss/26.png" width="400"> |
-| <img src="ss/27.png" width="400"> | <img src="ss/28.png" width="400"> |
+| <img src="admin_app/admin_app/ss/1.png" width="300">  | <img src="admin_app/ss/2.png" width="300">  |
+| <img src="admin_app/ss/3.png" width="300">  | <img src="admin_app/ss/4.png" width="300">  |
+| <img src="admin_app/ss/5.png" width="400">  | <img src="admin_app/ss/6.png" width="400">  |
+| <img src="admin_app/ss/7.png" width="400">  | <img src="admin_app/ss/8.png" width="400">  |
+| <img src="admin_app/ss/9.png" width="400">  | <img src="admin_app/ss/10.png" width="400"> |
+| <img src="admin_app/ss/11.png" width="400"> | <img src="admin_app/ss/12.png" width="400"> |
+| <img src="admin_app/ss/13.png" width="400"> | <img src="admin_app/ss/14.png" width="400"> |
+| <img src="admin_app/ss/15.png" width="400">  | <img src="admin_app/ss/16.png" width="400">  |
+| <img src="admin_app/ss/17.png" width="400">  | <img src="admin_app/ss/18.png" width="400">  |
+| <img src="admin_app/ss/19.png" width="400">  | <img src="admin_app/ss/20.png" width="400">  |
+| <img src="admin_app/ss/21.png" width="400">  | <img src="admin_app/ss/22.png" width="400">  |
+| <img src="admin_app/ss/23.png" width="400">  | <img src="admin_app/ss/24.png" width="400"> |
+| <img src="admin_app/ss/25.png" width="400"> | <img src="admin_app/ss/26.png" width="400"> |
+| <img src="admin_app/ss/27.png" width="400"> | <img src="admin_app/ss/28.png" width="400"> |
 Categories _ items _ Cart _ Favorite _ Tracking Order _Coupon _  Rating _ Notification _ Payments _ Responsive app
