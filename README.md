@@ -88,16 +88,16 @@ _________________________
              
 | <img src="admin_app/admin_app/ss/1.png" width="300">  | <img src="admin_app/ss/2.png" width="300">  |
 | <img src="admin_app/ss/3.png" width="300">  | <img src="admin_app/ss/4.png" width="300">  |
-| <img src="admin_app/ss/5.png" width="400">  | <img src="admin_app/ss/6.png" width="400">  |
-| <img src="admin_app/ss/7.png" width="400">  | <img src="admin_app/ss/8.png" width="400">  |
-| <img src="admin_app/ss/9.png" width="400">  | <img src="admin_app/ss/10.png" width="400"> |
-| <img src="admin_app/ss/11.png" width="400"> | <img src="admin_app/ss/12.png" width="400"> |
-| <img src="admin_app/ss/13.png" width="400"> | <img src="admin_app/ss/14.png" width="400"> |
-| <img src="admin_app/ss/15.png" width="400">  | <img src="admin_app/ss/16.png" width="400">  |
-| <img src="admin_app/ss/17.png" width="400">  | <img src="admin_app/ss/18.png" width="400">  |
-| <img src="admin_app/ss/19.png" width="400">  | <img src="admin_app/ss/20.png" width="400">  |
-| <img src="admin_app/ss/21.png" width="400">  | <img src="admin_app/ss/22.png" width="400">  |
-| <img src="admin_app/ss/23.png" width="400">  | <img src="admin_app/ss/24.png" width="400"> |
-| <img src="admin_app/ss/25.png" width="400"> | <img src="admin_app/ss/26.png" width="400"> |
-| <img src="admin_app/ss/27.png" width="400"> | <img src="admin_app/ss/28.png" width="400"> |
+| <img src="admin_app/ss/5.png" width="300">  | <img src="admin_app/ss/6.png" width="300">  |
+| <img src="admin_app/ss/7.png" width="300">  | <img src="admin_app/ss/8.png" width="300">  |
+| <img src="admin_app/ss/9.png" width="300">  | <img src="admin_app/ss/10.png" width="300"> |
+| <img src="admin_app/ss/11.png" width="300"> | <img src="admin_app/ss/12.png" width="300"> |
+| <img src="admin_app/ss/13.png" width="300"> | <img src="admin_app/ss/14.png" width="300"> |
+| <img src="admin_app/ss/15.png" width="300">  | <img src="admin_app/ss/16.png" width="300">  |
+| <img src="admin_app/ss/17.png" width="300">  | <img src="admin_app/ss/18.png" width="300">  |
+| <img src="admin_app/ss/19.png" width="300">  | <img src="admin_app/ss/20.png" width="300">  |
+| <img src="admin_app/ss/21.png" width="300">  | <img src="admin_app/ss/22.png" width="300">  |
+| <img src="admin_app/ss/23.png" width="300">  | <img src="admin_app/ss/24.png" width="300"> |
+| <img src="admin_app/ss/25.png" width="300"> | <img src="admin_app/ss/26.png" width="300"> |
+| <img src="admin_app/ss/27.png" width="300"> | <img src="admin_app/ss/28.png" width="300"> |
 Categories _ items _ Cart _ Favorite _ Tracking Order _Coupon _  Rating _ Notification _ Payments _ Responsive app
