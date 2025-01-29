@@ -86,7 +86,7 @@ Responsive Screens
 _# 📸 Screenshots
 _________________________
              
-| <img src="admin_app/admin_app/ss/1.png" width="300">  | <img src="admin_app/ss/2.png" width="300">  |
+| <img src="admin_app/ss/1.png" width="300">  | <img src="admin_app/ss/2.png" width="300">  |
 | <img src="admin_app/ss/3.png" width="300">  | <img src="admin_app/ss/4.png" width="300">  |
 | <img src="admin_app/ss/5.png" width="300">  | <img src="admin_app/ss/6.png" width="300">  |
 | <img src="admin_app/ss/7.png" width="300">  | <img src="admin_app/ss/8.png" width="300">  |
@@ -98,6 +98,5 @@ _________________________
 | <img src="admin_app/ss/19.png" width="300">  | <img src="admin_app/ss/20.png" width="300">  |
 | <img src="admin_app/ss/21.png" width="300">  | <img src="admin_app/ss/22.png" width="300">  |
 | <img src="admin_app/ss/23.png" width="300">  | <img src="admin_app/ss/24.png" width="300"> |
-| <img src="admin_app/ss/25.png" width="300"> | <img src="admin_app/ss/26.png" width="300"> |
-| <img src="admin_app/ss/27.png" width="300"> | <img src="admin_app/ss/28.png" width="300"> |
+ 
 Categories _ items _ Cart _ Favorite _ Tracking Order _Coupon _  Rating _ Notification _ Payments _ Responsive app
